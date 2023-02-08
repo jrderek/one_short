@@ -1,0 +1,11 @@
+python-dotenv
+prefect
+prefect-dbt
+prefect-snowflake
+dbt-snowflake
+sqlalchemy
+snowflake-sqlalchemy>=1.4.3
+pandas
+pygit2
+Faker
+s3fs
